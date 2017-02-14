@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/about"
+        android:title="About Development" />
+    <item android:id="@+id/undo"
+        android:title="Undo Last Journey" />
+    <item android:id="@+id/clear"
+        android:title="Clear" />
+    <item android:id="@+id/quit"
+        android:title="Quit To Main Menu" />
+</menu>
